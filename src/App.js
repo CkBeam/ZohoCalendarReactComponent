@@ -1,9 +1,10 @@
 import './App.css';
+import ZohoCalendar from './components/ZohoCalendar';
 
 function App() {
     return (
         <div className='App'>
-            <h1>Hey</h1>
+            <ZohoCalendar />
         </div>
     );
 }

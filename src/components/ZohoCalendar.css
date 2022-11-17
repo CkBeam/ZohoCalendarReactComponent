@@ -1,0 +1,10 @@
+#iframe {
+    width: 60%;
+    height: 50rem;
+    display: flex;
+    justify-content: center !important;
+}
+
+#calscheduledays {
+    display: none !important;
+}
