@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ZohoCalendarReactComponent/static/css/main.c4e77877.css",
-    "main.js": "/ZohoCalendarReactComponent/static/js/main.458ff3b4.js",
+    "main.css": "/ZohoCalendarReactComponent/static/css/main.e6c13ad2.css",
+    "main.js": "/ZohoCalendarReactComponent/static/js/main.a1945227.js",
     "index.html": "/ZohoCalendarReactComponent/index.html",
-    "main.c4e77877.css.map": "/ZohoCalendarReactComponent/static/css/main.c4e77877.css.map",
-    "main.458ff3b4.js.map": "/ZohoCalendarReactComponent/static/js/main.458ff3b4.js.map"
+    "main.e6c13ad2.css.map": "/ZohoCalendarReactComponent/static/css/main.e6c13ad2.css.map",
+    "main.a1945227.js.map": "/ZohoCalendarReactComponent/static/js/main.a1945227.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4e77877.css",
-    "static/js/main.458ff3b4.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a1945227.js"
   ]
 }
